@@ -2,6 +2,8 @@
 
 ## This is a project about a Employee Management System. I use Spring boot + React to complete this project.
 
+### I recommend use Intellj to do Spring boot part and VS code to do React part.
+
 ## Here are some functions:
 
 ### 1. Employee List
@@ -11,5 +13,3 @@
 ### 3. Delete employee info
 
 ### 4. View Employee info
-
-![picture](Screen Shot 2020-10-17 at 3.46.09 PM)
