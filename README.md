@@ -7,6 +7,7 @@
 ## Here are some functions:
 
 ### 1. Employee List
+<img width="1680" alt="Screen Shot 2020-10-17 at 3 46 09 PM" src="https://user-images.githubusercontent.com/47706926/96352558-fd3f0480-1091-11eb-8b39-4d0d05ebc0cd.png">
 
 ### 2. Update employee info
 
